@@ -1,2 +1,2 @@
-# Object Oritend Programming
-leaturer: ThS. Ha QT
+Object-oriented programming (OOP)
+Lecturer: ThS. Ha QT
