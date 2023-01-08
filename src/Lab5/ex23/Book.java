@@ -1,4 +1,4 @@
-package ex23;
+package Lab5.ex23;
 
 public class Book {
     private String isBn;

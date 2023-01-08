@@ -1,4 +1,4 @@
-package pattern.command.ex2;
+package Lab14.command.ex2;
 
 import java.util.LinkedList;
 import java.util.List;

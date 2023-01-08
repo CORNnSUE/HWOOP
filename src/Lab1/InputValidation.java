@@ -1,3 +1,5 @@
+package Lab1;
+
 import java.util.Scanner;
 public class InputValidation {
     public static void main(String[] args) {

@@ -1,3 +1,5 @@
+package HW1.bai2;
+
 import java.util.Scanner;
 
 public class Oct2Dec {

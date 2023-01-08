@@ -1,4 +1,4 @@
-package ex15;
+package Lab6.ex15;
 
 public class Cat extends Mammal {
 

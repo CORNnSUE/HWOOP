@@ -1,4 +1,4 @@
-package pattern.bridge.ex1;
+package Lab14.bridge.ex1;
 
 public interface OperatingSystem {
     void startup ();

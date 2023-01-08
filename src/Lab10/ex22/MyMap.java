@@ -1,4 +1,4 @@
-package ex22;
+package Lab10.ex22;
 
 public interface MyMap {
     Object get (Object key);

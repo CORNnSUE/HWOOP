@@ -1,4 +1,4 @@
-package ex22;
+package Lab5.ex22;
 
 public class Author {
     private String name;

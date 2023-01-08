@@ -1,4 +1,4 @@
-package pattern.bridge.demo;
+package Lab14.bridge.demo;
 
 public class Tv implements Device {
     private boolean on = false;

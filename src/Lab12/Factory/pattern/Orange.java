@@ -1,4 +1,4 @@
-package Factory.pattern;
+package Lab12.Factory.pattern;
 
 public class Orange implements Fruit{
     @Override

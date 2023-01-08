@@ -1,4 +1,4 @@
-package ex15;
+package Lab7.ex15;
 
 public class TestMain {
     public static void main(String[] args) {

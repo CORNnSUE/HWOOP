@@ -1,4 +1,4 @@
-package ex17;
+package Lab7.ex17;
 
 public abstract class Animal {
 

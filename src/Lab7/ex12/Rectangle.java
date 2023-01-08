@@ -1,4 +1,4 @@
-package ex12;
+package Lab7.ex12;
 
 public class Rectangle implements GeometricObject {
     private double width;

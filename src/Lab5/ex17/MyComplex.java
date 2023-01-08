@@ -1,4 +1,4 @@
-package ex17;
+package Lab5.ex17;
 
 public class MyComplex {
         private double real;

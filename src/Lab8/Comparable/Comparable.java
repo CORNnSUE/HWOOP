@@ -1,4 +1,4 @@
-package Comparable;
+package Lab8.Comparable;
 
 import java.util.*;
 

@@ -1,4 +1,4 @@
-package pattern.decorator;
+package Lab13.decorator;
 
 public class RedShapeDecorator extends ShapeDecorator {
 

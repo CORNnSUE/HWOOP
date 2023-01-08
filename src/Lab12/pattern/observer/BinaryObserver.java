@@ -1,4 +1,4 @@
-package pattern.observer;
+package Lab12.pattern.observer;
 
 public class BinaryObserver extends Observer{
     private String binary;

@@ -1,4 +1,4 @@
-package pattern.Builder;
+package Lab13.Builder;
 
 public class Manual {
     private final CarType carType;

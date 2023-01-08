@@ -1,4 +1,4 @@
-package ex14;
+package Lab5.ex14;
 
 public class Employee {
     private int id;

@@ -1,4 +1,4 @@
-package ex24;
+package Lab10.ex24;
 
 public class ArrayPoly extends AbstractPoly {
     private final double[] coefficients;

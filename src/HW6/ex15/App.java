@@ -1,4 +1,4 @@
-package ex15;
+package HW6.ex15;
 
 import java.io.BufferedReader;
 import java.io.FileReader;

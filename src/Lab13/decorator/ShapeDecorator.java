@@ -1,4 +1,4 @@
-package pattern.decorator;
+package Lab13.decorator;
 
 public abstract class ShapeDecorator implements Shape {
     protected Shape decoratedShape;

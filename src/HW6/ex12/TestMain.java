@@ -1,4 +1,4 @@
-package ex12;
+package HW6.ex12;
 
 
 public class TestMain {

@@ -1,4 +1,4 @@
-package pattern.visitor.demo;
+package Lab14.visitor.demo;
 
 public class Rectangle implements Shape {
     private int id;

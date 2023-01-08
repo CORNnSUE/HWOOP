@@ -1,4 +1,4 @@
-package ex23;
+package Lab10.ex23;
 
 public class TestMain {
     public static void main(String[] args) {

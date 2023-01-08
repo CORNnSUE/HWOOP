@@ -1,4 +1,4 @@
-package ex14;
+package Lab5.ex14;
 
 import java.util.Scanner;
 

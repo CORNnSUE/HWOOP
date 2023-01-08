@@ -1,4 +1,4 @@
-package pattern.visitor.demo;
+package Lab14.visitor.demo;
 
 public interface Shape {
     void move(int x, int y);

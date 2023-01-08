@@ -1,4 +1,4 @@
-package ex16;
+package Lab7.ex16;
 
 public abstract class Animal {
     private String name;

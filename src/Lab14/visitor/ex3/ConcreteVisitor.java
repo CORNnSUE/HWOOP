@@ -1,4 +1,4 @@
-package pattern.visitor.ex3;
+package Lab14.visitor.ex3;
 
 public class ConcreteVisitor implements Visitor{
     private double totalPrice;

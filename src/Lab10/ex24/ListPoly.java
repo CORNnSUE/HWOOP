@@ -1,4 +1,4 @@
-package ex24;
+package Lab10.ex24;
 
 import java.util.ArrayList;
 import java.util.*;

@@ -1,4 +1,4 @@
-package ex29;
+package Lab5.ex29;
 
 import ex26.MyPoint;
 

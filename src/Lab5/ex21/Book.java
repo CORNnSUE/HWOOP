@@ -1,4 +1,4 @@
-package ex21;
+package Lab5.ex21;
 
 public class Book {
     private String name;

@@ -1,3 +1,5 @@
+package Lab1;
+
 class PrintNumberInWord {
     public static void main(String[] args) {
         int number = 5;

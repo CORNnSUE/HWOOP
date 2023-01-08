@@ -1,4 +1,4 @@
-package ex11;
+package Lab10.ex11;
 
 import java.text.ParseException;
 import java.text.SimpleDateFormat;

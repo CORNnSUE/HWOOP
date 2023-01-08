@@ -1,4 +1,4 @@
-package ex14;
+package Lab6.ex14;
 
 public class Shape {
     private String color;

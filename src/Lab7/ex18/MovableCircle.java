@@ -1,4 +1,4 @@
-package ex18;
+package Lab7.ex18;
 
 public class MovableCircle implements Movable {
     private int radius;
