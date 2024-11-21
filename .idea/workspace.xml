@@ -1,7 +1,252 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7fe0f84d-c697-4fe2-abf6-8fc7e449203a" name="Changes" comment="" />
+    <list default="true" id="7fe0f84d-c697-4fe2-abf6-8fc7e449203a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HWOOP.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HW3/DateUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HW3/FactorialInt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HW3/FibonacciInt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HW3/Matrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HW3/NumberGuess.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HW3/SpecialSeries.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HW3/SystemConversion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HW3/Trigonometric.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HW3/WordGuess.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HW6/data/countries.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HW6/ex11/TestBigInteger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HW6/ex12/MyTime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HW6/ex12/TestMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HW6/ex13/MyDate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HW6/ex13/TestMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HW6/ex14/Ball.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HW6/ex14/Container.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HW6/ex14/TestMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HW6/ex15/AfricaCountry.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HW6/ex15/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HW6/ex15/AsiaCountry.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HW6/ex15/Country.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HW6/ex15/CountryArrayManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HW6/ex15/EuropeCountry.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HW6/ex15/NorthAmericaCountry.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HW6/ex15/OceaniaCountry.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HW6/ex15/SouthAmericaCountry.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab1/AverageWithInputValidation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab1/CheckOddEven.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab1/CheckPassFail.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab1/ExtractDigits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab1/Fibonacci.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab1/HarmonicSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab1/InputValidation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab1/PrintDayInWord.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab1/PrintNumberInWord.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab1/ReverseInt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab1/SumAverageRunningInt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab1/SumProductMinMax3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab12/AbstractFactory/pattern/AbstractFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab12/AbstractFactory/pattern/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab12/AbstractFactory/pattern/FactoryProducer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab12/AbstractFactory/pattern/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab12/AbstractFactory/pattern/RoundedRectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab12/AbstractFactory/pattern/RoundedShapeFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab12/AbstractFactory/pattern/RoundedSquare.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab12/AbstractFactory/pattern/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab12/AbstractFactory/pattern/ShapeFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab12/AbstractFactory/pattern/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab12/Factory/pattern/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab12/Factory/pattern/Apple.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab12/Factory/pattern/Banana.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab12/Factory/pattern/Fruit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab12/Factory/pattern/FruitFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab12/Factory/pattern/Orange.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab12/pattern/observer/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab12/pattern/observer/BinaryObserver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab12/pattern/observer/HexaObsever.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab12/pattern/observer/Observer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab12/pattern/observer/OctalObserver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab12/pattern/observer/Subject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab13/Builder/Builder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab13/Builder/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab13/Builder/CarBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab13/Builder/CarManualBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab13/Builder/CarType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab13/Builder/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab13/Builder/Director.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab13/Builder/Engine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab13/Builder/GPS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab13/Builder/Manual.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab13/Builder/TripComputer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab13/decorator/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab13/decorator/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab13/decorator/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab13/decorator/RedShapeDecorator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab13/decorator/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab13/decorator/ShapeDecorator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab13/iterator/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab13/iterator/Iterable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab13/iterator/Iterator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab13/iterator/ProductCatalog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab13/iterator/ProductIterator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab2/ArrayToString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab2/Contain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab2/CopyOf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab2/Dec2Hex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab2/Equal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab2/Exponent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab2/GradesStatistic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab2/GradesStatistics.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab2/HasEight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab2/Hex2Bin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab2/Print.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab2/PrintArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab2/PrintArrayInStars.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab2/ReverseArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab2/Search.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab2/Swap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab4/BinarySearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab4/BubbleSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab4/FactorialRecursive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab4/FibonacciRecursive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab4/GCD.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab4/GCDRecursive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab4/InsertionSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab4/LinearSearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab4/NumberSequenceRecursive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab4/PerfectAndDeficient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab4/PrimeFactor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab4/PrimeNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab4/SelectionSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab5/ex11/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab5/ex11/TestCircle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab5/ex12/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab5/ex12/TestCircle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab5/ex13/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab5/ex13/TestMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab5/ex14/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab5/ex14/TestMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab5/ex15/InvoiceItem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab5/ex15/TestMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab5/ex16/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab5/ex16/TestMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab5/ex17/MyComplex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab5/ex17/TestMyComplex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab5/ex18/MyPolynomial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab5/ex18/TestMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab5/ex21/Author.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab5/ex21/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab5/ex21/TestMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab5/ex22/Author.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab5/ex22/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab5/ex22/TestMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab5/ex23/Author.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab5/ex23/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab5/ex23/TestMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab5/ex24/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab5/ex24/Invoice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab5/ex24/TestMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab5/ex25/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab5/ex25/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab5/ex25/TestMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab5/ex26/MyPoint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab5/ex26/TestMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab5/ex27/MyLine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab5/ex27/TestMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab5/ex28/MyCircle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab5/ex28/TestMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab5/ex29/MyTriangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab5/ex29/TestMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab6/ex11/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab6/ex11/Cylinder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab6/ex11/TestMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab6/ex12/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab6/ex12/Staff.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab6/ex12/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab6/ex12/TestMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab6/ex13/Point2D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab6/ex13/Point3D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab6/ex13/TestMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab6/ex14/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab6/ex14/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab6/ex14/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab6/ex14/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab6/ex14/TestMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab6/ex15/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab6/ex15/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab6/ex15/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab6/ex15/Mammal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab6/ex15/TestMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab6/ex21/Line.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab6/ex21/LineSub.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab6/ex21/Point.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab6/ex21/TestLine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab6/ex21/TestLineSub.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab6/ex21/TestMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab6/ex21/TestPoint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab6/ex22/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab6/ex22/Cylinder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab6/ex22/TestMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab7/ex11/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab7/ex11/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab7/ex11/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab7/ex11/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab7/ex11/TestMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab7/ex12/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab7/ex12/GeometricObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab7/ex12/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab7/ex12/TestMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab7/ex13/Movable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab7/ex13/MovablePoint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab7/ex13/TestMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab7/ex14/Movable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab7/ex14/MovableCircle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab7/ex14/MovablePoint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab7/ex14/TestMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab7/ex15/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab7/ex15/GeometricObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab7/ex15/Resizable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab7/ex15/ResizableCircle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab7/ex15/TestMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab7/ex16/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab7/ex16/BigDog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab7/ex16/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab7/ex16/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab7/ex16/TestMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab7/ex17/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab7/ex17/BigDog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab7/ex17/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab7/ex17/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab7/ex17/TestMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab7/ex18/Movable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab7/ex18/MovableCircle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab7/ex18/MovablePoint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab7/ex18/MovableRectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab7/ex18/TestMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab8/Comparable/Comparable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab8/Comparator/Comparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab8/Lists.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab8/Maps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab8/Sets.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bai1/BoxPattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bai1/CheckerPattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bai1/HillPattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bai1/SquarePattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bai1/TimeTable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bai1/TriangularPattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bai2/Bin2Dec.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bai2/CaesarCode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bai2/CheckHexStr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bai2/CountVowelsDigits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bai2/DecipherCaesarCode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bai2/ExchangeCipher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bai2/Hex2Dec.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bai2/Oct2Dec.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bai2/PhoneKeyPad.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bai2/ReverseString.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -11,7 +256,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="2K1efSsIE0DxCrelTyOlk5O0CX7" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -19,9 +266,22 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Riot Games/HWOOP/src/Lab13",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Riot Games\HWOOP\src\Lab14" />
+      <recent name="C:\Riot Games\HWOOP\src\Lab10" />
+      <recent name="C:\Riot Games\HWOOP\src\Lab13" />
+      <recent name="C:\Riot Games\HWOOP\src\Lab12" />
+      <recent name="C:\Riot Games\HWOOP\src\Lab8" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">

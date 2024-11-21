@@ -1,4 +1,4 @@
-package ex11;
+package Lab10.ex11;
 
 public class Dvd extends Item{
     private int duration;

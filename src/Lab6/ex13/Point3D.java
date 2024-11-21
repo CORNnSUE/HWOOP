@@ -1,4 +1,4 @@
-package ex13;
+package Lab6.ex13;
 
 public class Point3D extends Point2D {
     private float z ;

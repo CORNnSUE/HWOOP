@@ -1,3 +1,5 @@
+package Lab8;
+
 import java.io.CharArrayReader;
 import java.util.*;
 public class Sets {

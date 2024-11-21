@@ -1,4 +1,4 @@
-package ex21;
+package Lab10.ex21;
 
 public class MyLinkedList extends MyAbstractList{
     private int size;

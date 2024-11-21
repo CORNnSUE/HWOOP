@@ -1,4 +1,4 @@
-package pattern.iterator;
+package Lab13.iterator;
 
 public interface Iterator {
     public boolean hasNext();

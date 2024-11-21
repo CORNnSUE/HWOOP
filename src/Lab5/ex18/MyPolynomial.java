@@ -1,4 +1,4 @@
-package ex18;
+package Lab5.ex18;
 
 public class MyPolynomial {
     private double[] coeffs;

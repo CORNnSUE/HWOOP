@@ -1,4 +1,4 @@
-package ex15;
+package Lab7.ex15;
 
 public class ResizableCircle extends Circle implements Resizable{
     public ResizableCircle (double radius){

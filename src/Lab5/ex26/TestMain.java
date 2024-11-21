@@ -1,4 +1,4 @@
-package ex26;
+package Lab5.ex26;
 
 import java.util.Scanner;
 

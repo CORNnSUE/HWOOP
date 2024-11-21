@@ -1,4 +1,4 @@
-package pattern.observer;
+package Lab12.pattern.observer;
 
 import java.util.LinkedList;
 import java.util.List;

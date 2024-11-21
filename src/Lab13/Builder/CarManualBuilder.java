@@ -1,4 +1,4 @@
-package pattern.Builder;
+package Lab13.Builder;
 
 public class CarManualBuilder implements Builder {
     private Car car;

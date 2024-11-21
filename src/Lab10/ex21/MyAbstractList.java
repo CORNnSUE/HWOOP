@@ -1,4 +1,4 @@
-package ex21;
+package Lab10.ex21;
 
 public abstract class MyAbstractList implements MyList{
     void checkBoundaries (int index, int limit){

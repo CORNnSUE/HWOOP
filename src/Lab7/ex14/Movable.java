@@ -1,4 +1,4 @@
-package ex14;
+package Lab7.ex14;
 
 public interface Movable {
     void moveUp();

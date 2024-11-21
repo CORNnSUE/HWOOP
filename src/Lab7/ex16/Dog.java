@@ -1,4 +1,4 @@
-package ex16;
+package Lab7.ex16;
 
 public class Dog extends Animal {
     public Dog (String name){

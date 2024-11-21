@@ -1,4 +1,4 @@
-package Factory.pattern;
+package Lab12.Factory.pattern;
 
 public class App {
     public static void main(String[] args) {

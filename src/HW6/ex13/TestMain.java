@@ -1,4 +1,4 @@
-package ex13;
+package HW6.ex13;
 
 public class TestMain {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package pattern.command.ex2;
+package Lab14.command.ex2;
 
 public class ShutdownCommand implements Command{
     public ShutdownCommand(Computer computer) {

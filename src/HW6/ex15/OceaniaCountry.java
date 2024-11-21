@@ -1,4 +1,4 @@
-package ex15;
+package HW6.ex15;
 
 public class OceaniaCountry extends Country {
     private int population;

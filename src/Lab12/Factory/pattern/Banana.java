@@ -1,4 +1,4 @@
-package Factory.pattern;
+package Lab12.Factory.pattern;
 
 public class Banana implements Fruit{
     @Override

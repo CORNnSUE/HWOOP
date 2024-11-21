@@ -1,4 +1,4 @@
-package pattern.bridge.demo;
+package Lab14.bridge.demo;
 
 public class Demo {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package ex22;
+package Lab6.ex22;
 
 public class Circle {
     private double radius;

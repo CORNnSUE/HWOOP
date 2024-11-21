@@ -1,4 +1,4 @@
-package ex16;
+package Lab5.ex16;
 
 public class Account {
 

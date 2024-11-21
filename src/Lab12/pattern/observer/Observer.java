@@ -1,4 +1,4 @@
-package pattern.observer;
+package Lab12.pattern.observer;
 
 public abstract class Observer {
     protected Subject subject;

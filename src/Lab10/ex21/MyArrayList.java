@@ -1,4 +1,4 @@
-package ex21;
+package Lab10.ex21;
 
 public class MyArrayList extends MyAbstractList {
     static final int INITIAL_SIZE = 16;

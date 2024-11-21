@@ -1,4 +1,4 @@
-package ex24;
+package Lab10.ex24;
 
 public abstract class AbstractPoly implements Poly {
     public AbstractPoly() {

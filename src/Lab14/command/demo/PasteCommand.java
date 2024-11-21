@@ -1,4 +1,4 @@
-package pattern.command.demo;
+package Lab14.command.demo;
 
 public class PasteCommand extends Command {
 

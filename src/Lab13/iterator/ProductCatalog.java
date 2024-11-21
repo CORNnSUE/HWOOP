@@ -1,5 +1,5 @@
-package pattern.iterator;
-public class ProductCatalog implements Iterable {
+package Lab13.iterator;
+public class ProductCatalog implements java.lang.Iterable {
     private String[] productCatalog;
     private final int SIZE = 100;
 

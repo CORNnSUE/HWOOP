@@ -1,4 +1,4 @@
-package ex11;
+package Lab5.ex11;
 
 public class Circle {
     private double radius;

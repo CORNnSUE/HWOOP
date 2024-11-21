@@ -1,4 +1,4 @@
-package ex14;
+package Lab6.ex14;
 
 public class Rectangle extends Shape {
     private double width;

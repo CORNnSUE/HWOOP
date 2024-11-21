@@ -1,4 +1,4 @@
-package AbstractFactory.pattern;
+package Lab12.AbstractFactory.pattern;
 
 public class ShapeFactory extends AbstractFactory {
     @Override

@@ -1,3 +1,5 @@
+package Lab1;
+
 public class CheckOddEven {
     public static void main(String[] args) {
         int number = 49;

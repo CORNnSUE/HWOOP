@@ -1,3 +1,5 @@
+package Lab1;
+
 public class HarmonicSum {
     public static void main(String[] args) {
         final int MAXDENOMINATOR = 500;

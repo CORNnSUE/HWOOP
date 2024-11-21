@@ -1,4 +1,4 @@
-package ex22;
+package Lab10.ex22;
 
 import java.util.NoSuchElementException;
 

@@ -1,4 +1,4 @@
-package pattern.observer;
+package Lab12.pattern.observer;
 
 public class OctalObserver extends Observer{
     private String octal;

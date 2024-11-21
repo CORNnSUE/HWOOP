@@ -1,4 +1,4 @@
-package pattern.command.demo;
+package Lab14.command.demo;
 
 public abstract class Command {
     public Editor editor;

@@ -1,4 +1,4 @@
-package ex15;
+package Lab5.ex15;
 
 public class InvoiceItem {
     private String id;

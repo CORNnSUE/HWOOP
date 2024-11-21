@@ -1,4 +1,4 @@
-package ex26;
+package Lab5.ex26;
 
 public class MyPoint {
     private int x;

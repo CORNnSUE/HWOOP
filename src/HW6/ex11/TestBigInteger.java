@@ -1,4 +1,4 @@
-package ex11;
+package HW6.ex11;
 
 import java.math.BigInteger;
 

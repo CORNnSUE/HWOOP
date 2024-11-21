@@ -1,4 +1,4 @@
-package ex14;
+package Lab7.ex14;
 
 public class MovablePoint implements Movable {
     private int x;

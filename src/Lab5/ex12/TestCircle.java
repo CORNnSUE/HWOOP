@@ -1,4 +1,4 @@
-package ex12;
+package Lab5.ex12;
 import java.util.Scanner;
 
 public class TestCircle {

@@ -1,4 +1,4 @@
-package pattern.visitor.ex3;
+package Lab14.visitor.ex3;
 
 public interface Visitor {
     void visit(BussinesBook book);

@@ -1,4 +1,4 @@
-package ex12;
+package Lab6.ex12;
 
 import java.util.Scanner;
 

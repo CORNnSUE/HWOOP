@@ -1,4 +1,4 @@
-package ex24;
+package Lab5.ex24;
 
 public class Invoice {
     private int id;

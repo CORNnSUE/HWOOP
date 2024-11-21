@@ -1,4 +1,4 @@
-package ex21;
+package Lab6.ex21;
 
 public class Point {
     private int x;

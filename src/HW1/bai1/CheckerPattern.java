@@ -1,3 +1,5 @@
+package HW1.bai1;
+
 import java.util.Scanner;
 
 public class CheckerPattern {
